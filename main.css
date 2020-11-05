@@ -1,3 +1,42 @@
 body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-image: url(./img/bg-pexels-blaque-x-932638.jpg);
+  background-position: center;
+  background-size: 1900px;
+  color: white;
 }
+  header {
+    width: 100%;
+
+  }
+    img {
+      width: 150px;
+      padding-left: 5%;
+    }
+  div {
+    width: 35%;
+    align-self: center;
+    margin: 0px 250px 0px 200px;
+  }
+    h1 {
+      font-weight: 600;
+      padding-top: 10px;
+    }
+    p {
+      font-weight: 600;
+      font-size: 13px;
+      text-align: justify;
+    }
+    .a-p {
+      display: inline;
+      padding: 0%;
+    }
+    a {
+      display: inline-block;
+      width: 100%;
+      color: white;
+      font-weight: 600;
+      font-size: 13px;
+      padding: 7px 7px 7px 0px;
+      text-decoration-color: rgba(240, 248, 255, 0.329);
+    }
